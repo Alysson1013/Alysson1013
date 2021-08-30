@@ -5,7 +5,6 @@
 - 📫 Contate-me no email: alysson6801@hotmail.com
 - 😄 Pronomes: ele/dele
 
-#
 
  <div>
   <a href="https://github.com/Alysson1013">
