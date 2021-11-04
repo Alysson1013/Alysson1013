@@ -2,7 +2,7 @@
 
 - 🔭 Hoje estou trabalhando com front-end
 - 🌱 Estudando Typescript
-- 📫 Contate-me no email: alysson6801@hotmail.com
+- 📫 Contate-me no e-mail: alysson6801@hotmail.com
 - 😄 Pronomes: ele/dele
 
 
