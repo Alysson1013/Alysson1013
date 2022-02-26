@@ -24,19 +24,17 @@
   <img align="center" alt="Alysson-Postgree" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/postgresql/postgresql-original.svg">
 </div>
  
- #
-
- <div>
-      <a href="https://www.instagram.com/alysson_1013/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-       <a href="https://www.linkedin.com/in/alysson-eduardo-a358911a4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-       <a href="https://api.whatsapp.com/send?phone=5516992159738&text=" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- <div>
-  
- #
-  
-<table>
+ <table>
   <tr>
     <td>Você é o visitante número: </td>
     <td><img src="https://profile-counter.glitch.me/Alysson1013/count.svg" alt="" /></td>
   </tr>
 </table>
+ 
+ #
+ 
+ <div>
+      <a href="https://www.instagram.com/alysson_1013/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+       <a href="https://www.linkedin.com/in/alysson-eduardo-a358911a4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+       <a href="https://api.whatsapp.com/send?phone=5516992159738&text=" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+ <div>
