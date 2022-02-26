@@ -1,7 +1,7 @@
 ## Vida longa e próspera 🖖
 
-- 🔭 Hoje estou trabalhando com front-end
-- 🌱 Estudando Typescript
+- 🔭 Hoje estou trabalhando como full stack
+- 🌱 Estudando clean architecture
 - 📫 Contate-me no e-mail: alysson6801@hotmail.com
 - 😄 Pronomes: ele/dele
 
