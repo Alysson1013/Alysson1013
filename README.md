@@ -33,5 +33,5 @@
  <div>
   
 ```
-![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://github.com/Alysson1013/count.svg)
 ```
