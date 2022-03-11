@@ -1,9 +1,9 @@
-## Vida longa e próspera 🖖
+## Live long and prosper 🖖
 
-- 🔭 Hoje estou trabalhando como full stack
-- 🌱 Estudando clean architecture
-- 📫 Contate-me no e-mail: alysson6801@hotmail.com
-- 😄 Pronomes: ele/dele
+- 🔭 I’m currently working as a full stack
+- 🌱 I’m currently learning clean architecture
+- 📫 Contact me on e-mail: alysson6801@hotmail.com
+- 😄 Pronouns: he/him
 
 
  <div>
@@ -36,7 +36,7 @@
   
  <table>
   <tr>
-    <td>Você é o visitante número: </td>
+   <td>You are visitor number: </td>
     <td><img src="https://profile-counter.glitch.me/Alysson1013/count.svg" alt="" /></td>
   </tr>
 </table>
