@@ -1,6 +1,6 @@
 ## Live long and prosper 🖖
 
-- 🔭 I’m currently working as a full stack
+- 🔭 I’m currently working as a fullstack
 - 🌱 I’m currently learning Vue
 - 📫 Contact me on e-mail: alysson6801@hotmail.com
 - 😄 Pronouns: he/him
