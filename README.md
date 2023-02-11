@@ -1,7 +1,7 @@
 ## Live long and prosper 🖖
 
 - 🔭 I’m currently working as a fullstack
-- 🌱 I’m currently learning Vue
+- 🌱 I’m currently learning SSR
 - 📫 Contact me on e-mail: alysson6801@hotmail.com
 - 😄 Pronouns: he/him
 
